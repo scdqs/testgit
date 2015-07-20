@@ -11,7 +11,8 @@ public class MainActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         
-        System.out.println("MainActivity===");
+        System.out.println("MainActivity===123");
+        //添加测试注释123
     }
 
 
